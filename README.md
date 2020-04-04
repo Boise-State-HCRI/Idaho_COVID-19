@@ -6,7 +6,7 @@ This repository houses COVID-19 data for the State of Idaho collected and proces
 - Daily counts of new cases by county ("ID_COVID_DAILY_COUNT.csv")
 - New and cumulative cases by date ("ID_COVID_CUMULATIVE_BY_DATE.csv")
 - Daily screenshots of coronavirus.idaho.gov from 3.20.20 to present
-- Data tables scraped directly from coronavirus.idaho.gov from 3.20.20 to 4.1.20 (including reported details on age, sex, testing, and hospitalizations)
+- Data tables scraped directly from coronavirus.idaho.gov from 3.20.20 to 4.1.20 (including reported details on age, sex, testing, and hospitalizations). We stopped scraping on 4.2.20 after the website changed formats and scraping was no longer possible, but have continued to update the "Cases" .csv's manually.
 
 ## Authors:
 - Kathryn McConnell
