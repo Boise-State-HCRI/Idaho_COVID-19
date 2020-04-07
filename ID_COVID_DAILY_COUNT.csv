@@ -144,3 +144,48 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 4/3/20,confirmed,Jerome,NA,3,0
 4/3/20,confirmed,Lincoln,NA,2,0
 4/3/20,confirmed,Twin Falls,NA,1,1
+4/4/20,confirmed,Ada,NA,34,0
+4/4/20,confirmed,Blaine,NA,5,0
+4/4/20,confirmed,Canyon,NA,10,0
+4/4/20,confirmed,Caribou,NA,1,0
+4/4/20,confirmed,Elmore,NA,1,0
+4/4/20,confirmed,Jerome,NA,2,0
+4/4/20,confirmed,Kootenai,NA,3,0
+4/4/20,confirmed,Lincoln,NA,2,0
+4/4/20,confirmed,Minidoka,NA,2,0
+4/4/20,confirmed,Teton,NA,1,0
+4/4/20,confirmed,Twin Falls,NA,4,0
+4/4/20,confirmed,Valley,NA,-1,0
+4/5/20,confirmed,Ada,NA,17,0
+4/5/20,confirmed,Bonneville,NA,1,0
+4/5/20,confirmed,Canyon,NA,2,0
+4/5/20,confirmed,Jefferson,NA,1,0
+4/5/20,confirmed,Kootenai,NA,2,0
+4/5/20,confirmed,Payette,NA,1,0
+4/6/20,confirmed,Ada,NA,17,0
+4/6/20,confirmed,Blaine,NA,13,0
+4/6/20,confirmed,Bonner,NA,1,0
+4/6/20,confirmed,Canyon,NA,3,2
+4/6/20,confirmed,Cassia,NA,1,0
+4/6/20,confirmed,Elmore,NA,1,0
+4/6/20,confirmed,Fremont,NA,1,0
+4/6/20,confirmed,Gem,NA,1,0
+4/6/20,confirmed,Gooding,NA,2,0
+4/6/20,confirmed,Idaho,NA,1,0
+4/6/20,confirmed,Jerome,NA,5,0
+4/6/20,confirmed,Kootenai,NA,1,0
+4/6/20,confirmed,Latah,NA,1,0
+4/6/20,confirmed,Lewis,NA,-1,0
+4/6/20,confirmed,Lincoln,NA,3,0
+4/6/20,confirmed,Nez Perce,NA,2,0
+4/6/20,confirmed,Payette,NA,0,1
+4/6/20,confirmed,Teton,NA,1,0
+4/6/20,confirmed,Twin Falls,NA,16,0
+4/7/20,confirmed,Ada,NA,19,0
+4/7/20,confirmed,Blaine,NA,5,2
+4/7/20,confirmed,Bonneville,NA,1,0
+4/7/20,confirmed,Canyon,NA,10,0
+4/7/20,confirmed,Elmore,NA,2,0
+4/7/20,confirmed,Kootenai,NA,-1,0
+4/7/20,confirmed,Nez Perce,NA,2,0
+4/7/20,confirmed,Power,NA,2,0
