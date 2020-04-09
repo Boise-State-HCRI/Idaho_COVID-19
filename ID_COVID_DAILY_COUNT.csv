@@ -189,3 +189,12 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 4/7/20,confirmed,Kootenai,NA,-1,0
 4/7/20,confirmed,Nez Perce,NA,2,0
 4/7/20,confirmed,Power,NA,2,0
+4/8/20,confirmed,Ada,NA,9,2
+4/8/20,confirmed,Blaine,NA,0,1
+4/8/20,confirmed,Canyon,NA,7,0
+4/8/20,confirmed,Gooding,NA,1,0
+4/8/20,confirmed,Jerome,NA,1,1
+4/8/20,confirmed,Nez Perce,NA,1,0
+4/8/20,confirmed,Payette,NA,0,-1
+4/8/20,confirmed,Teton,NA,1,0
+4/8/20,confirmed,Twin Falls,NA,2,0
