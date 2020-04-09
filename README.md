@@ -1,6 +1,6 @@
 # Archive of Idaho COVID-19 Data 
 
-This repository houses COVID-19 data for the State of Idaho collected and processed by Boise State's Hazard and Climate Resilience Institute (HCRI), and used to populate the "Confirmed Coronavirus/COVID-19 Cases in Idaho" map (https://arcg.is/PjmPy). The data have been collected daily from coronavirus.idaho.gov, and are available for public use. Please contact hcri@boisestate.edu with any questions or feedback.
+This repository houses COVID-19 data reported by the State of Idaho, collected by Boise State's Hazard and Climate Resilience Institute (HCRI), and used to populate the "Confirmed Coronavirus/COVID-19 Cases in Idaho" map (https://arcg.is/PjmPy). The data have been collected daily from coronavirus.idaho.gov, and are available for public use. Please contact hcri@boisestate.edu with any questions or feedback.
 
 ## Available Data:
 - Daily counts of new cases by county ("ID_COVID_DAILY_COUNT.csv")
