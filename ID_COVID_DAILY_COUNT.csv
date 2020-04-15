@@ -255,3 +255,19 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 4/14/20,confirmed,Minidoka,South Central Public Health District,1,0
 4/14/20,confirmed,Nez Perce,Public Health - Idaho North Central District,0,3
 4/14/20,confirmed,Twin Falls,South Central Public Health District,0,3
+4/15/20,confirmed,Ada,Central District Health,37,0
+4/15/20,confirmed,Bannock,Southeastern Idaho Public Health,3,0
+4/15/20,confirmed,Blaine,South Central Public Health District,11,0
+4/15/20,confirmed,Bonneville,Eastern Idaho Public Health,8,0
+4/15/20,confirmed,Canyon,Southwest District Health,14,0
+4/15/20,confirmed,Gem,Southwest District Health,1,0
+4/15/20,confirmed,Gooding,South Central Public Health District,2,0
+4/15/20,confirmed,Jefferson,Eastern Idaho Public Health,1,0
+4/15/20,confirmed,Jerome,South Central Public Health District,8,0
+4/15/20,confirmed,Kootenai,Panhandle Health District,3,0
+4/15/20,confirmed,Madison,Eastern Idaho Public Health,3,0
+4/15/20,confirmed,Minidoka,South Central Public Health District,3,0
+4/15/20,confirmed,Nez Perce,Public Health - Idaho North Central District,7,1
+4/15/20,confirmed,Payette,Southwest District Health,1,0
+4/15/20,confirmed,Teton,Eastern Idaho Public Health,1,0
+4/15/20,confirmed,Twin Falls,South Central Public Health District,20,1
