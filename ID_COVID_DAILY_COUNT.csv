@@ -290,3 +290,8 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 4/17/20,confirmed,Nez Perce,Public Health - Idaho North Central District,1,1
 4/17/20,confirmed,Teton,Eastern Idaho Public Health,1,0
 4/17/20,confirmed,Twin Falls,South Central Public Health District,10,1
+4/18/20,confirmed,Ada,Central District Health,5,1
+4/18/20,confirmed,Elmore,Central District Health,1,0
+4/18/20,confirmed,Gooding,South Central Public Health District,1,0
+4/18/20,confirmed,Lincoln,South Central Public Health District,1,0
+4/18/20,confirmed,Twin Falls,South Central Public Health District,5,0
