@@ -413,3 +413,11 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 5/1/20,confirmed,Gooding,South Central Public Health District,-1,0
 5/1/20,confirmed,Minidoka,South Central Public Health District,-1,0
 5/1/20,confirmed,Twin Falls,South Central Public Health District,10,0
+5/2/20,confirmed,Ada,Central District Health,16,1
+5/2/20,confirmed,Canyon,Southwest District Health,-1,0
+5/2/20,confirmed,Gooding,South Central Public Health District,1,0
+5/2/20,confirmed,Jerome,South Central Public Health District,1,0
+5/2/20,confirmed,Lincoln,South Central Public Health District,2,0
+5/2/20,confirmed,Madison,Eastern Idaho Public Health,1,0
+5/2/20,confirmed,Minidoka,South Central Public Health District,1,0
+5/2/20,confirmed,Twin Falls,South Central Public Health District,5,0
