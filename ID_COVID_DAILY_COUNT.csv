@@ -408,3 +408,8 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 4/30/20,confirmed,Madison,Eastern Idaho Public Health,1,0
 4/30/20,confirmed,Nez Perce,Public Health - Idaho North Central District,0,2
 4/30/20,confirmed,Twin Falls,South Central Public Health District,11,0
+5/1/20,confirmed,Ada,Central District Health,8,0
+5/1/20,confirmed,Canyon,Southwest District Health,4,0
+5/1/20,confirmed,Gooding,South Central Public Health District,-1,0
+5/1/20,confirmed,Minidoka,South Central Public Health District,-1,0
+5/1/20,confirmed,Twin Falls,South Central Public Health District,10,0
