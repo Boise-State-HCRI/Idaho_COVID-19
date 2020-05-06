@@ -430,3 +430,11 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 5/4/20,confirmed,Nez Perce,Public Health - Idaho North Central District,14,0
 5/4/20,confirmed,Payette,Southwest District Health,1,0
 5/4/20,confirmed,Twin Falls,South Central Public Health District,12,0
+5/5/20,confirmed,Ada,Central District Health,3,2
+5/5/20,confirmed,Blaine,South Central Public Health District,1,0
+5/5/20,confirmed,Canyon,Southwest District Health,0,-1
+5/5/20,confirmed,Fremont,Eastern Idaho Public Health,1,0
+5/5/20,confirmed,Jerome,South Central Public Health District,4,0
+5/5/20,confirmed,Madison,Eastern Idaho Public Health,1,0
+5/5/20,confirmed,Teton,Eastern Idaho Public Health,1,0
+5/5/20,confirmed,Twin Falls,South Central Public Health District,10,0
