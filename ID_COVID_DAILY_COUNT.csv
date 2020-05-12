@@ -479,3 +479,12 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 5/11/20,confirmed,Madison,Eastern Idaho Public Health,1,0
 5/11/20,confirmed,Twin Falls,South Central Public Health District,10,0
 5/11/20,confirmed,Washington,Southwest District Health,1,0
+5/12/20,confirmed,Ada,Central District Health,5,0
+5/12/20,confirmed,Canyon,Southwest District Health,0,-1
+5/12/20,confirmed,Gooding,South Central Public Health District,2,0
+5/12/20,confirmed,Jerome,South Central Public Health District,6,0
+5/12/20,confirmed,Minidoka,South Central Public Health District,1,0
+5/12/20,confirmed,Nez Perce,Public Health - Idaho North Central District,1,0
+5/12/20,confirmed,Power,Southeastern Idaho Public Health,1,0
+5/12/20,confirmed,Twin Falls,South Central Public Health District,11,0
+5/12/20,confirmed,Washington,Southwest District Health,6,0
