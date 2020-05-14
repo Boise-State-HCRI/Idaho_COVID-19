@@ -499,3 +499,11 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 5/13/20,confirmed,Minidoka,South Central Public Health District,1,0
 5/13/20,confirmed,Twin Falls,South Central Public Health District,8,0
 5/13/20,confirmed,Washington,Southwest District Health,2,0
+5/13/20,confirmed,Ada,Central District Health,5,1
+5/13/20,confirmed,Canyon,Southwest District Health,1,0
+5/13/20,confirmed,Gooding,South Central Public Health District,1,0
+5/13/20,confirmed,Jerome,South Central Public Health District,3,0
+5/13/20,confirmed,Minidoka,South Central Public Health District,2,0
+5/13/20,confirmed,Payette,Southwest District Health,2,0
+5/13/20,confirmed,Twin Falls,South Central Public Health District,10,2
+5/13/20,confirmed,Washington,Southwest District Health,3,0
