@@ -537,3 +537,13 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 5/16/20,confirmed,Payette,Southwest District Health,2,0
 5/16/20,confirmed,Twin Falls,South Central Public Health District,8,1
 5/16/20,confirmed,Washington,Southwest District Health,7,0
+5/19/20,confirmed,Ada,Central District Health,3,1
+5/19/20,confirmed,Blaine,South Central Public Health District,1,0
+5/19/20,confirmed,Bonneville,Eastern Idaho Public Health,-1,0
+5/19/20,confirmed,Canyon,Southwest District Health,4,0
+5/19/20,confirmed,Gooding,South Central Public Health District,1,0
+5/19/20,confirmed,Jerome,South Central Public Health District,3,0
+5/19/20,confirmed,Madison,Eastern Idaho Public Health,1,0
+5/19/20,confirmed,Minidoka,South Central Public Health District,3,0
+5/19/20,confirmed,Twin Falls,South Central Public Health District,6,2
+5/19/20,confirmed,Washington,Southwest District Health,1,0
