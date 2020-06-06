@@ -700,3 +700,43 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 6/4/20,confirmed,Payette,Southwest District Health,1,0
 6/4/20,confirmed,Twin Falls,South Central Public Health District,3,0
 6/4/20,confirmed,Washington,Southwest District Health,1,0
+5/30/20,confirmed,Ada,Central District Health,-11,0
+5/30/20,confirmed,Bannock,Southeastern Idaho Public Health,-9,-1
+5/30/20,confirmed,Benewah,Panhandle Health District,-6,0
+5/30/20,confirmed,Bingham,Southeastern Idaho Public Health,-5,0
+5/30/20,confirmed,Blaine,South Central Public Health District,-2,0
+5/30/20,confirmed,Bonneville,Eastern Idaho Public Health,-9,0
+5/30/20,confirmed,Canyon,Southwest District Health,-12,0
+5/30/20,confirmed,Caribou,Southeastern Idaho Public Health,-2,0
+5/30/20,confirmed,Cassia,South Central Public Health District,-26,0
+5/30/20,confirmed,Elmore,Central District Health,-1,0
+5/30/20,confirmed,Franklin,Southeastern Idaho Public Health,-7,0
+5/30/20,confirmed,Fremont,Eastern Idaho Public Health,-1,0
+5/30/20,confirmed,Gooding,South Central Public Health District,-3,0
+5/30/20,confirmed,Jefferson,Eastern Idaho Public Health,-2,0
+5/30/20,confirmed,Jerome,South Central Public Health District,-11,0
+5/30/20,confirmed,Kootenai,Panhandle Health District,-6,0
+5/30/20,confirmed,Madison,Eastern Idaho Public Health,-4,0
+5/30/20,confirmed,Minidoka,South Central Public Health District,-11,0
+5/30/20,confirmed,Nez Perce,Public Health - Idaho North Central District,-1,0
+5/30/20,confirmed,Payette,Southwest District Health,-2,0
+5/30/20,confirmed,Power,Southeastern Idaho Public Health,-1,0
+5/30/20,confirmed,Twin Falls,South Central Public Health District,-13,0
+5/30/20,confirmed,Washington,Southwest District Health,-6,0
+6/4/20,confirmed,Ada,Central District Health,10,0
+6/4/20,confirmed,Bannock,Southeastern Idaho Public Health,8,0
+6/4/20,confirmed,Benewah,Panhandle Health District,3,0
+6/4/20,confirmed,Bingham,Southeastern Idaho Public Health,9,0
+6/4/20,confirmed,Bonneville,Eastern Idaho Public Health,4,0
+6/4/20,confirmed,Canyon,Southwest District Health,21,0
+6/4/20,confirmed,Cassia,South Central Public Health District,20,0
+6/4/20,confirmed,Franklin,Southeastern Idaho Public Health,-1,0
+6/4/20,confirmed,Gooding,South Central Public Health District,5,0
+6/4/20,confirmed,Jerome,South Central Public Health District,14,0
+6/4/20,confirmed,Kootenai,Panhandle Health District,7,0
+6/4/20,confirmed,Madison,Eastern Idaho Public Health,2,0
+6/4/20,confirmed,Minidoka,South Central Public Health District,10,0
+6/4/20,confirmed,Payette,Southwest District Health,1,0
+6/4/20,confirmed,Power,Southeastern Idaho Public Health,1,0
+6/4/20,confirmed,Twin Falls,South Central Public Health District,5,0
+6/4/20,confirmed,Washington,Southwest District Health,2,0
