@@ -738,3 +738,15 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 6/8/20,confirmed,Minidoka,South Central Public Health District,6,0
 6/8/20,confirmed,Twin Falls,South Central Public Health District,11,0
 6/8/20,confirmed,Valley,Central District Health,1,0
+6/9/20,confirmed,Ada,Central District Health,4,0
+6/9/20,confirmed,Benewah,Panhandle Health District,-1,0
+6/9/20,confirmed,Bingham,Southeastern Idaho Public Health,1,0
+6/9/20,confirmed,Bonner,Panhandle Health District,1,0
+6/9/20,confirmed,Bonneville,Eastern Idaho Public Health,4,0
+6/9/20,confirmed,Cassia,South Central Public Health District,1,0
+6/9/20,confirmed,Elmore,Central District Health,1,0
+6/9/20,confirmed,Jerome,South Central Public Health District,3,0
+6/9/20,confirmed,Kootenai,Panhandle Health District,6,0
+6/9/20,confirmed,Minidoka,South Central Public Health District,2,0
+6/9/20,confirmed,Power,Southeastern Idaho Public Health,2,0
+6/9/20,confirmed,Twin Falls,South Central Public Health District,7,2
