@@ -1,45 +1,1 @@
-﻿County,Confirmed,Probable,Cases,Case Rate*,Deaths
-Ada,767,56,823,175.1,22
-Adams,3,,3,70.6,
-Bannock,33,4,37,42.5,1
-Bear Lake,,,0,,
-Benewah,14,,14,151.7,
-Bingham,11,,11,23.8,
-Blaine,503,11,514,"2,274.20",5
-Boise,,,0,,
-Bonner,6,,6,13.4,
-Bonneville,36,20,56,47.9,
-Boundary,,,0,,
-Butte,,,0,,
-Camas,1,,1,88.7,
-Canyon,289,26,315,140.9,6
-Caribou,3,,3,42.5,
-Cassia,78,11,89,372.9,1
-Clark,,,0,,
-Clearwater,,,0,,
-Custer,2,,2,46.7,
-Elmore,31,1,32,117.4,2
-Franklin,7,2,9,,
-Fremont,3,1,4,30.4,
-Gem,13,4,17,96.4,
-Gooding,43,7,50,329,
-Idaho,3,,3,18.2,
-Jefferson,7,2,9,30.6,
-Jerome,155,25,180,749.5,2
-Kootenai,74,,74,45.8,
-Latah,6,1,7,17.4,
-Lemhi,1,,1,12.6,
-Lewis,,,0,,
-Lincoln,30,3,33,615.7,
-Madison,16,9,25,63.6,
-Minidoka,56,5,61,292.9,
-Nez Perce,74,9,83,205.4,19
-Oneida,,,0,,
-Owyhee,8,,8,68.4,
-Payette,21,4,25,106.2,2
-Power,6,,6,77.2,
-Shoshone,,,0,,
-Teton,10,1,11,94.5,
-Twin Falls,360,72,432,501.9,23
-Valley,2,,2,18.1,
-Washington,37,7,44,433,
+﻿County	Confirmed	Probable	Cases	Case Rate*	Deaths	DateAda	767	56	823	175.1	22	6/3/20Adams	3		3	70.6		6/3/20Bannock	33	4	37	42.5	1	6/3/20Bear Lake			0			6/3/20Benewah	14		14	151.7		6/3/20Bingham	11		11	23.8		6/3/20Blaine	503	11	514	"2,274.20"	5	6/3/20Boise			0			6/3/20Bonner	6		6	13.4		6/3/20Bonneville	36	20	56	47.9		6/3/20Boundary			0			6/3/20Butte			0			6/3/20Camas	1		1	88.7		6/3/20Canyon	289	26	315	140.9	6	6/3/20Caribou	3		3	42.5		6/3/20Cassia	78	11	89	372.9	1	6/3/20Clark			0			6/3/20Clearwater			0			6/3/20Custer	2		2	46.7		6/3/20Elmore	31	1	32	117.4	2	6/3/20Franklin	7	2	9			6/3/20Fremont	3	1	4	30.4		6/3/20Gem	13	4	17	96.4		6/3/20Gooding	43	7	50	329		6/3/20Idaho	3		3	18.2		6/3/20Jefferson	7	2	9	30.6		6/3/20Jerome	155	25	180	749.5	2	6/3/20Kootenai	74		74	45.8		6/3/20Latah	6	1	7	17.4		6/3/20Lemhi	1		1	12.6		6/3/20Lewis			0			6/3/20Lincoln	30	3	33	615.7		6/3/20Madison	16	9	25	63.6		6/3/20Minidoka	56	5	61	292.9		6/3/20Nez Perce	74	9	83	205.4	19	6/3/20Oneida			0			6/3/20Owyhee	8		8	68.4		6/3/20Payette	21	4	25	106.2	2	6/3/20Power	6		6	77.2		6/3/20Shoshone			0			6/3/20Teton	10	1	11	94.5		6/3/20Twin Falls	360	72	432	501.9	23	6/3/20Valley	2		2	18.1		6/3/20Washington	37	7	44	433		6/3/20

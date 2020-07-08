@@ -1,45 +1,45 @@
-County,Confirmed,Probable,Cases,Case Rate*,Deaths
-Ada,752,53,805,171.3,22
-Adams,3,,3,70.6,
-Bannock,23,4,27,31,
-Bear Lake,,,0,,
-Benewah,8,,8,86.7,
-Bingham,6,,6,13,
-Blaine,501,11,512,"2,265.40",5
-Boise,,,0,,
-Bonner,6,,6,13.4,
-Bonneville,23,14,37,31.7,
-Boundary,,,0,,
-Butte,,,0,,
-Camas,1,,1,88.7,
-Canyon,276,24,300,134.2,6
-Caribou,1,,1,14.2,
-Cassia,60,2,62,259.8,1
-Clark,,,0,,
-Clearwater,,,0,,
-Custer,2,,2,46.7,
-Elmore,30,1,31,113.7,2
-Franklin,1,,1,,
-Fremont,2,1,3,22.8,
-Gem,13,4,17,96.4,
-Gooding,40,7,47,309.3,
-Idaho,3,,3,18.2,
-Jefferson,5,2,7,23.8,
-Jerome,140,25,165,687.1,2
-Kootenai,67,,67,41.5,
-Latah,6,1,7,17.4,
-Lemhi,1,,1,12.6,
-Lewis,,,0,,
-Lincoln,30,3,33,615.7,
-Madison,13,8,21,53.4,
-Minidoka,41,5,46,220.9,
-Nez Perce,73,9,82,202.9,19
-Oneida,,,0,,
-Owyhee,8,,8,68.4,
-Payette,19,4,23,97.7,2
-Power,4,,4,51.5,
-Shoshone,,,0,,
-Teton,10,1,11,94.5,
-Twin Falls,345,71,416,483.3,23
-Valley,2,,2,18.1,
-Washington,36,2,38,374,
+County,Confirmed,Probable,Cases,Case Rate*,Deaths,Date
+Ada,752,53,805,171.3,22,5/29/20
+Adams,3,,3,70.6,,5/29/20
+Bannock,23,4,27,31,,5/29/20
+Bear Lake,,,0,,,5/29/20
+Benewah,8,,8,86.7,,5/29/20
+Bingham,6,,6,13,,5/29/20
+Blaine,501,11,512,"2,265.40",5,5/29/20
+Boise,,,0,,,5/29/20
+Bonner,6,,6,13.4,,5/29/20
+Bonneville,23,14,37,31.7,,5/29/20
+Boundary,,,0,,,5/29/20
+Butte,,,0,,,5/29/20
+Camas,1,,1,88.7,,5/29/20
+Canyon,276,24,300,134.2,6,5/29/20
+Caribou,1,,1,14.2,,5/29/20
+Cassia,60,2,62,259.8,1,5/29/20
+Clark,,,0,,,5/29/20
+Clearwater,,,0,,,5/29/20
+Custer,2,,2,46.7,,5/29/20
+Elmore,30,1,31,113.7,2,5/29/20
+Franklin,1,,1,,,5/29/20
+Fremont,2,1,3,22.8,,5/29/20
+Gem,13,4,17,96.4,,5/29/20
+Gooding,40,7,47,309.3,,5/29/20
+Idaho,3,,3,18.2,,5/29/20
+Jefferson,5,2,7,23.8,,5/29/20
+Jerome,140,25,165,687.1,2,5/29/20
+Kootenai,67,,67,41.5,,5/29/20
+Latah,6,1,7,17.4,,5/29/20
+Lemhi,1,,1,12.6,,5/29/20
+Lewis,,,0,,,5/29/20
+Lincoln,30,3,33,615.7,,5/29/20
+Madison,13,8,21,53.4,,5/29/20
+Minidoka,41,5,46,220.9,,5/29/20
+Nez Perce,73,9,82,202.9,19,5/29/20
+Oneida,,,0,,,5/29/20
+Owyhee,8,,8,68.4,,5/29/20
+Payette,19,4,23,97.7,2,5/29/20
+Power,4,,4,51.5,,5/29/20
+Shoshone,,,0,,,5/29/20
+Teton,10,1,11,94.5,,5/29/20
+Twin Falls,345,71,416,483.3,23,5/29/20
+Valley,2,,2,18.1,,5/29/20
+Washington,36,2,38,374,,5/29/20
