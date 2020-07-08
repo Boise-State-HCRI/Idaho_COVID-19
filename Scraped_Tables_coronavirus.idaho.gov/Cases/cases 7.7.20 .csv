@@ -1,0 +1,46 @@
+﻿County,Confirmed,Probable,Cases,Case Rate*,Deaths
+Ada,"3,066",186,"3,252",692,23
+Adams,11,1,12,282.4,
+Bannock,107,15,122,140,1
+Bear Lake,2,,2,33.1,
+Benewah,23,,23,249.3,
+Bingham,56,2,58,125.4,1
+Blaine,531,12,543,"2,402.50",5
+Boise,5,,5,65.5,
+Bonner,40,,40,89.4,
+Bonneville,118,38,156,133.5,1
+Boundary,1,,1,8.4,
+Butte,,,0,,
+Camas,1,,1,88.7,
+Canyon,"1,397",88,"1,485",664.4,6
+Caribou,11,1,12,170,
+Cassia,246,39,285,"1,194.30",1
+Clark,,,0,,
+Clearwater,2,1,3,34.3,
+Custer,4,,4,93.5,
+Elmore,73,2,75,275.1,2
+Franklin,28,2,30,,
+Fremont,7,1,8,60.8,
+Gem,34,5,39,221.2,
+Gooding,58,10,68,447.5,1
+Idaho,8,,8,48.4,
+Jefferson,15,5,20,67.9,
+Jerome,225,35,260,"1,082.70",5
+Kootenai,460,4,464,287.3,1
+Latah,25,5,30,74.7,
+Lemhi,2,,2,25.1,
+Lewis,1,,1,25.9,
+Lincoln,33,4,37,690.3,
+Madison,30,13,43,109.4,
+Minidoka,201,26,227,"1,090.00",
+Nez Perce,93,13,106,262.3,19
+Oneida,4,,4,89.1,
+Owyhee,45,12,57,487.5,
+Payette,120,21,141,598.7,2
+Power,17,2,19,244.6,
+Shoshone,3,,3,23.4,
+Teton,21,2,23,197.6,
+Twin Falls,626,101,727,844.6,25
+Unknown,1,,1,,
+Valley,22,,22,199.3,
+Washington,111,9,120,"1,181.00",1
