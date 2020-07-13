@@ -1332,3 +1332,32 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 7/11/20,confirmed,Teton,Eastern Idaho Public Health,1,0
 7/11/20,confirmed,Twin Falls,South Central Public Health District,4,0
 7/11/20,confirmed,Washington,Southwest District Health,1,0
+7/13/20,confirmed,Ada,Central District Health,473,0
+7/13/20,confirmed,Bannock,Southeastern Idaho Public Health,6,0
+7/13/20,confirmed,Bingham,Southeastern Idaho Public Health,6,0
+7/13/20,confirmed,Blaine,South Central Public Health District,2,0
+7/13/20,confirmed,Boise,Central District Health,2,0
+7/13/20,confirmed,Bonner,Panhandle Health District,16,0
+7/13/20,confirmed,Bonneville,Eastern Idaho Public Health,18,0
+7/13/20,confirmed,Boundary,Panhandle Health District,2,0
+7/13/20,confirmed,Canyon,Southwest District Health,168,0
+7/13/20,confirmed,Caribou,Southeastern Idaho Public Health,2,0
+7/13/20,confirmed,Cassia,South Central Public Health District,7,0
+7/13/20,confirmed,Clearwater,Public Health - Idaho North Central District,1,0
+7/13/20,confirmed,Custer,Eastern Idaho Public Health,1,0
+7/13/20,confirmed,Elmore,Central District Health,12,0
+7/13/20,confirmed,Gem,Southwest District Health,11,0
+7/13/20,confirmed,Gooding,South Central Public Health District,2,0
+7/13/20,confirmed,Idaho,Public Health - Idaho North Central District,2,0
+7/13/20,confirmed,Jefferson,Eastern Idaho Public Health,8,0
+7/13/20,confirmed,Jerome,South Central Public Health District,18,0
+7/13/20,confirmed,Kootenai,Panhandle Health District,44,0
+7/13/20,confirmed,Madison,Eastern Idaho Public Health,6,0
+7/13/20,confirmed,Minidoka,South Central Public Health District,13,0
+7/13/20,confirmed,Nez Perce,Public Health - Idaho North Central District,4,0
+7/13/20,confirmed,Oneida,Southeastern Idaho Public Health,1,0
+7/13/20,confirmed,Owyhee,Southwest District Health,9,0
+7/13/20,confirmed,Payette,Southwest District Health,19,0
+7/13/20,confirmed,Teton,Eastern Idaho Public Health,6,0
+7/13/20,confirmed,Twin Falls,South Central Public Health District,37,0
+7/13/20,confirmed,Valley,Central District Health,2,0
