@@ -1,45 +1,45 @@
 County,Confirmed,Probable,Cases,Deaths,Date,HEALTH_DISTRICT
-Ada,4864,268,5132,30,7/16/20,Central District Health
-Adams,12,1,13,0,7/16/20,Southwest District Health
-Bannock,161,15,176,1,7/16/20,Southeastern Idaho Public Health
-Bear Lake,2,0,2,0,7/16/20,Southeastern Idaho Public Health
-Benewah,34,0,34,0,7/16/20,Panhandle Health District
-Bingham,100,2,102,1,7/16/20,Southeastern Idaho Public Health
-Blaine,542,13,555,5,7/16/20,South Central Public Health District
-Boise,13,0,13,0,7/16/20,Central District Health
-Bonner,83,5,88,0,7/16/20,Panhandle Health District
-Bonneville,186,66,252,1,7/16/20,Eastern Idaho Public Health
-Boundary,8,0,8,0,7/16/20,Panhandle Health District
-Butte,0,0,0,0,7/16/20,Southeastern Idaho Public Health
-Camas,1,0,1,0,7/16/20,South Central Public Health District
-Canyon,2628,102,2730,16,7/16/20,Southwest District Health
-Caribou,19,1,20,0,7/16/20,Southeastern Idaho Public Health
-Cassia,304,38,342,1,7/16/20,South Central Public Health District
-Clark,0,0,0,0,7/16/20,Eastern Idaho Public Health
-Clearwater,6,1,7,0,7/16/20,Public Health - Idaho North Central District
-Custer,6,0,6,0,7/16/20,Eastern Idaho Public Health
-Elmore,109,3,112,2,7/16/20,Central District Health
-Franklin,32,2,34,0,7/16/20,Southeastern Idaho Public Health
-Fremont,14,2,16,0,7/16/20,Eastern Idaho Public Health
-Gem,78,7,85,0,7/16/20,Southwest District Health
-Gooding,80,13,93,1,7/16/20,South Central Public Health District
-Idaho,14,0,14,0,7/16/20,Public Health - Idaho North Central District
-Jefferson,27,10,37,0,7/16/20,Eastern Idaho Public Health
-Jerome,294,43,337,6,7/16/20,South Central Public Health District
-Kootenai,856,8,864,1,7/16/20,Panhandle Health District
-Latah,32,6,38,0,7/16/20,Public Health - Idaho North Central District
-Lemhi,4,0,4,0,7/16/20,Eastern Idaho Public Health
-Lewis,0,0,0,0,7/16/20,Public Health - Idaho North Central District
-Lincoln,37,6,43,0,7/16/20,South Central Public Health District
-Madison,62,22,84,0,7/16/20,Eastern Idaho Public Health
-Minidoka,259,29,288,0,7/16/20,South Central Public Health District
-Nez Perce,103,13,116,19,7/16/20,Public Health - Idaho North Central District
-Oneida,7,0,7,0,7/16/20,Southeastern Idaho Public Health
-Owyhee,106,12,118,0,7/16/20,Southwest District Health
-Payette,199,22,221,2,7/16/20,Southwest District Health
-Power,19,2,21,0,7/16/20,Southeastern Idaho Public Health
-Shoshone,17,0,17,0,7/16/20,Panhandle Health District
-Teton,35,4,39,0,7/16/20,Eastern Idaho Public Health
-Twin Falls,782,112,894,25,7/16/20,South Central Public Health District
-Valley,31,1,32,1,7/16/20,Central District Health
-Washington,129,9,138,2,7/16/20,Southwest District Health
+Ada,5170,287,5457,32,7/17/20,Central District Health
+Adams,12,1,13,0,7/17/20,Southwest District Health
+Bannock,166,17,183,1,7/17/20,Southeastern Idaho Public Health
+Bear Lake,3,0,3,0,7/17/20,Southeastern Idaho Public Health
+Benewah,34,0,34,0,7/17/20,Panhandle Health District
+Bingham,105,2,107,1,7/17/20,Southeastern Idaho Public Health
+Blaine,542,13,555,5,7/17/20,South Central Public Health District
+Boise,15,0,15,0,7/17/20,Central District Health
+Bonner,84,5,89,0,7/17/20,Panhandle Health District
+Bonneville,194,68,262,1,7/17/20,Eastern Idaho Public Health
+Boundary,10,0,10,0,7/17/20,Panhandle Health District
+Butte,0,0,0,0,7/17/20,Southeastern Idaho Public Health
+Camas,1,0,1,0,7/17/20,South Central Public Health District
+Canyon,2730,104,2834,18,7/17/20,Southwest District Health
+Caribou,20,1,21,0,7/17/20,Southeastern Idaho Public Health
+Cassia,307,38,345,1,7/17/20,South Central Public Health District
+Clark,0,0,0,0,7/17/20,Eastern Idaho Public Health
+Clearwater,6,1,7,0,7/17/20,Public Health - Idaho North Central District
+Custer,6,0,6,0,7/17/20,Eastern Idaho Public Health
+Elmore,114,3,117,2,7/17/20,Central District Health
+Franklin,33,2,35,0,7/17/20,Southeastern Idaho Public Health
+Fremont,20,2,22,0,7/17/20,Eastern Idaho Public Health
+Gem,80,7,87,0,7/17/20,Southwest District Health
+Gooding,81,13,94,1,7/17/20,South Central Public Health District
+Idaho,16,0,16,0,7/17/20,Public Health - Idaho North Central District
+Jefferson,31,11,42,0,7/17/20,Eastern Idaho Public Health
+Jerome,302,43,345,6,7/17/20,South Central Public Health District
+Kootenai,927,8,935,1,7/17/20,Panhandle Health District
+Latah,34,6,40,0,7/17/20,Public Health - Idaho North Central District
+Lemhi,6,0,6,0,7/17/20,Eastern Idaho Public Health
+Lewis,0,0,0,0,7/17/20,Public Health - Idaho North Central District
+Lincoln,39,6,45,0,7/17/20,South Central Public Health District
+Madison,65,25,90,0,7/17/20,Eastern Idaho Public Health
+Minidoka,264,29,293,0,7/17/20,South Central Public Health District
+Nez Perce,103,13,116,19,7/17/20,Public Health - Idaho North Central District
+Oneida,7,0,7,0,7/17/20,Southeastern Idaho Public Health
+Owyhee,111,12,123,0,7/17/20,Southwest District Health
+Payette,205,23,228,2,7/17/20,Southwest District Health
+Power,20,2,22,0,7/17/20,Southeastern Idaho Public Health
+Shoshone,21,0,21,0,7/17/20,Panhandle Health District
+Teton,37,4,41,0,7/17/20,Eastern Idaho Public Health
+Twin Falls,795,112,907,25,7/17/20,South Central Public Health District
+Valley,32,2,34,1,7/17/20,Central District Health
+Washington,135,9,144,2,7/17/20,Southwest District Health
