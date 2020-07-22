@@ -1536,3 +1536,37 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 7/20/20,confirmed,Twin Falls,South Central Public Health District,26,0
 7/20/20,confirmed,Valley,Central District Health,1,0
 7/20/20,confirmed,Washington,Southwest District Health,3,0
+7/21/20,confirmed,Ada,Central District Health,216,2
+7/21/20,confirmed,Bannock,Southeastern Idaho Public Health,14,0
+7/21/20,confirmed,Benewah,Panhandle Health District,1,0
+7/21/20,confirmed,Bingham,Southeastern Idaho Public Health,8,0
+7/21/20,confirmed,Blaine,South Central Public Health District,3,0
+7/21/20,confirmed,Boise,Central District Health,2,0
+7/21/20,confirmed,Bonner,Panhandle Health District,2,0
+7/21/20,confirmed,Bonneville,Eastern Idaho Public Health,12,0
+7/21/20,confirmed,Boundary,Panhandle Health District,6,0
+7/21/20,confirmed,Canyon,Southwest District Health,176,1
+7/21/20,confirmed,Cassia,South Central Public Health District,-1,0
+7/21/20,confirmed,Custer,Eastern Idaho Public Health,1,0
+7/21/20,confirmed,Elmore,Central District Health,3,0
+7/21/20,confirmed,Franklin,Southeastern Idaho Public Health,1,0
+7/21/20,confirmed,Fremont,Eastern Idaho Public Health,3,0
+7/21/20,confirmed,Gem,Southwest District Health,1,0
+7/21/20,confirmed,Gooding,South Central Public Health District,2,0
+7/21/20,confirmed,Idaho,Public Health - Idaho North Central District,1,0
+7/21/20,confirmed,Jefferson,Eastern Idaho Public Health,5,1
+7/21/20,confirmed,Jerome,South Central Public Health District,4,0
+7/21/20,confirmed,Kootenai,Panhandle Health District,49,0
+7/21/20,confirmed,Latah,Public Health - Idaho North Central District,3,0
+7/21/20,confirmed,Lemhi,Eastern Idaho Public Health,1,0
+7/21/20,confirmed,Lincoln,South Central Public Health District,-1,0
+7/21/20,confirmed,Madison,Eastern Idaho Public Health,4,0
+7/21/20,confirmed,Minidoka,South Central Public Health District,8,0
+7/21/20,confirmed,Nez Perce,Public Health - Idaho North Central District,2,0
+7/21/20,confirmed,Owyhee,Southwest District Health,9,0
+7/21/20,confirmed,Payette,Southwest District Health,8,0
+7/21/20,confirmed,Shoshone,Panhandle Health District,3,0
+7/21/20,confirmed,Teton,Eastern Idaho Public Health,1,0
+7/21/20,confirmed,Twin Falls,South Central Public Health District,5,0
+7/21/20,confirmed,Valley,Central District Health,1,0
+7/21/20,confirmed,Washington,Southwest District Health,3,0
