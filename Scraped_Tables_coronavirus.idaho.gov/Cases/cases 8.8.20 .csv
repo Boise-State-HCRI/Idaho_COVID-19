@@ -1,4 +1,4 @@
-County,Public Health District,Confirmed,Probable,Cases,Cumulative Incidence Rate²,Daily 7-day Moving Average Incidence Rate³,Deaths
+County,Public Health District,Confirmed,Probable,Cases,Cumulative Incidence Rate_,Daily 7-day Moving Average Incidence Rate_,Deaths
 Ada,4,"8,388",544,"8,932","1,854.70",21,81
 Adams,3,18,1,19,442.5,3.3,
 Bannock,6,370,21,391,445.3,10.7,2
