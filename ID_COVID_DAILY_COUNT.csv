@@ -2824,3 +2824,16 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 9/6/20,confirmed,Teton,Eastern Idaho Public Health,3,0
 9/6/20,confirmed,Twin Falls,South Central Public Health District,15,0
 9/6/20,confirmed,Washington,Southwest District Health,1,0
+9/7/20,confirmed,Ada,Central District Health,6,0
+9/7/20,confirmed,Blaine,South Central Public Health District,1,0
+9/7/20,confirmed,Bonneville,Eastern Idaho Public Health,15,0
+9/7/20,confirmed,Canyon,Southwest District Health,20,0
+9/7/20,confirmed,Fremont,Eastern Idaho Public Health,1,0
+9/7/20,confirmed,Gooding,South Central Public Health District,1,0
+9/7/20,confirmed,Jefferson,Eastern Idaho Public Health,3,0
+9/7/20,confirmed,Jerome,South Central Public Health District,7,0
+9/7/20,confirmed,Lemhi,Eastern Idaho Public Health,1,0
+9/7/20,confirmed,Madison,Eastern Idaho Public Health,3,0
+9/7/20,confirmed,Payette,Southwest District Health,4,0
+9/7/20,confirmed,Teton,Eastern Idaho Public Health,-2,0
+9/7/20,confirmed,Twin Falls,South Central Public Health District,14,0
