@@ -2958,3 +2958,32 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 9/12/20,confirmed,Shoshone,Panhandle Health District,1,0
 9/12/20,confirmed,Teton,Eastern Idaho Public Health,1,0
 9/12/20,confirmed,Twin Falls,South Central Public Health District,9,0
+9/14/20,confirmed,Ada,Central District Health,57,0
+9/14/20,confirmed,Bannock,Southeastern Idaho Public Health,5,0
+9/14/20,confirmed,Benewah,Panhandle Health District,1,0
+9/14/20,confirmed,Bingham,Southeastern Idaho Public Health,3,1
+9/14/20,confirmed,Blaine,South Central Public Health District,4,0
+9/14/20,confirmed,Bonner,Panhandle Health District,9,0
+9/14/20,confirmed,Bonneville,Eastern Idaho Public Health,65,0
+9/14/20,confirmed,Boundary,Panhandle Health District,1,0
+9/14/20,confirmed,Canyon,Southwest District Health,47,3
+9/14/20,confirmed,Caribou,Southeastern Idaho Public Health,8,0
+9/14/20,confirmed,Cassia,South Central Public Health District,3,0
+9/14/20,confirmed,Clark,Eastern Idaho Public Health,1,0
+9/14/20,confirmed,Elmore,Central District Health,1,0
+9/14/20,confirmed,Franklin,Southeastern Idaho Public Health,1,0
+9/14/20,confirmed,Fremont,Eastern Idaho Public Health,2,0
+9/14/20,confirmed,Gem,Southwest District Health,2,0
+9/14/20,confirmed,Gooding,South Central Public Health District,5,0
+9/14/20,confirmed,Idaho,Public Health - Idaho North Central District,14,0
+9/14/20,confirmed,Jefferson,Eastern Idaho Public Health,15,0
+9/14/20,confirmed,Jerome,South Central Public Health District,8,0
+9/14/20,confirmed,Kootenai,Panhandle Health District,18,0
+9/14/20,confirmed,Latah,Public Health - Idaho North Central District,14,0
+9/14/20,confirmed,Madison,Eastern Idaho Public Health,24,0
+9/14/20,confirmed,Nez Perce,Public Health - Idaho North Central District,4,0
+9/14/20,confirmed,Owyhee,Southwest District Health,1,0
+9/14/20,confirmed,Payette,Southwest District Health,8,0
+9/14/20,confirmed,Shoshone,Panhandle Health District,1,0
+9/14/20,confirmed,Twin Falls,South Central Public Health District,40,0
+9/14/20,confirmed,Washington,Southwest District Health,3,0
