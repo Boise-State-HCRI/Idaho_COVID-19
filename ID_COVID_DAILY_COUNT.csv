@@ -3583,3 +3583,33 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 10/4/20,confirmed,Twin Falls,South Central Public Health District,40,0
 10/4/20,confirmed,Valley,Central District Health,1,0
 10/4/20,confirmed,Washington,Southwest District Health,3,0
+10/5/20,confirmed,Ada,Central District Health,89,1
+10/5/20,confirmed,Adams,Southwest District Health,1,0
+10/5/20,confirmed,Bannock,Southeastern Idaho Public Health,3,1
+10/5/20,confirmed,Benewah,Panhandle Health District,3,0
+10/5/20,confirmed,Blaine,South Central Public Health District,1,0
+10/5/20,confirmed,Bonner,Panhandle Health District,6,0
+10/5/20,confirmed,Bonneville,Eastern Idaho Public Health,48,0
+10/5/20,confirmed,Canyon,Southwest District Health,47,0
+10/5/20,confirmed,Cassia,South Central Public Health District,9,1
+10/5/20,confirmed,Clearwater,Public Health - Idaho North Central District,10,0
+10/5/20,confirmed,Elmore,Central District Health,3,0
+10/5/20,confirmed,Franklin,Southeastern Idaho Public Health,0,1
+10/5/20,confirmed,Fremont,Eastern Idaho Public Health,6,0
+10/5/20,confirmed,Gooding,South Central Public Health District,3,0
+10/5/20,confirmed,Idaho,Public Health - Idaho North Central District,8,0
+10/5/20,confirmed,Jefferson,Eastern Idaho Public Health,11,0
+10/5/20,confirmed,Jerome,South Central Public Health District,1,0
+10/5/20,confirmed,Kootenai,Panhandle Health District,32,1
+10/5/20,confirmed,Latah,Public Health - Idaho North Central District,46,0
+10/5/20,confirmed,Lemhi,Eastern Idaho Public Health,1,0
+10/5/20,confirmed,Lewis,Public Health - Idaho North Central District,3,0
+10/5/20,confirmed,Lincoln,South Central Public Health District,-1,0
+10/5/20,confirmed,Madison,Eastern Idaho Public Health,65,0
+10/5/20,confirmed,Minidoka,South Central Public Health District,10,0
+10/5/20,confirmed,Nez Perce,Public Health - Idaho North Central District,15,0
+10/5/20,confirmed,Owyhee,Southwest District Health,3,0
+10/5/20,confirmed,Payette,Southwest District Health,9,0
+10/5/20,confirmed,Teton,Eastern Idaho Public Health,5,0
+10/5/20,confirmed,Twin Falls,South Central Public Health District,20,0
+10/5/20,confirmed,Washington,Southwest District Health,1,0
