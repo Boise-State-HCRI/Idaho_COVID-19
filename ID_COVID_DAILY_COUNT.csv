@@ -5196,3 +5196,43 @@ DATE,TYPE_OF_CASE,COUNTY,HEALTH_DISTRICT,COUNT,DEATHS
 11/17/20,confirmed,Twin Falls,South Central Public Health District,99,5
 11/17/20,confirmed,Valley,Central District Health,3,0
 11/17/20,confirmed,Washington,Southwest District Health,16,0
+11/18/20,confirmed,Ada,Central District Health,284,0
+11/18/20,confirmed,Bannock,Southeastern Idaho Public Health,67,0
+11/18/20,confirmed,Bear Lake,Southeastern Idaho Public Health,12,0
+11/18/20,confirmed,Bingham,Southeastern Idaho Public Health,45,0
+11/18/20,confirmed,Blaine,South Central Public Health District,31,0
+11/18/20,confirmed,Boise,Central District Health,3,0
+11/18/20,confirmed,Bonner,Panhandle Health District,10,1
+11/18/20,confirmed,Bonneville,Eastern Idaho Public Health,115,1
+11/18/20,confirmed,Boundary,Panhandle Health District,9,0
+11/18/20,confirmed,Butte,Southeastern Idaho Public Health,3,0
+11/18/20,confirmed,Canyon,Southwest District Health,126,0
+11/18/20,confirmed,Caribou,Southeastern Idaho Public Health,3,0
+11/18/20,confirmed,Cassia,South Central Public Health District,23,0
+11/18/20,confirmed,Clearwater,Public Health - Idaho North Central District,6,0
+11/18/20,confirmed,Custer,Eastern Idaho Public Health,3,0
+11/18/20,confirmed,Elmore,Central District Health,22,1
+11/18/20,confirmed,Franklin,Southeastern Idaho Public Health,15,0
+11/18/20,confirmed,Fremont,Eastern Idaho Public Health,3,0
+11/18/20,confirmed,Gem,Southwest District Health,17,0
+11/18/20,confirmed,Gooding,South Central Public Health District,17,0
+11/18/20,confirmed,Idaho,Public Health - Idaho North Central District,17,1
+11/18/20,confirmed,Jefferson,Eastern Idaho Public Health,25,4
+11/18/20,confirmed,Jerome,South Central Public Health District,25,0
+11/18/20,confirmed,Kootenai,Panhandle Health District,106,3
+11/18/20,confirmed,Latah,Public Health - Idaho North Central District,36,0
+11/18/20,confirmed,Lemhi,Eastern Idaho Public Health,5,1
+11/18/20,confirmed,Lewis,Public Health - Idaho North Central District,1,0
+11/18/20,confirmed,Lincoln,South Central Public Health District,4,0
+11/18/20,confirmed,Madison,Eastern Idaho Public Health,46,0
+11/18/20,confirmed,Minidoka,South Central Public Health District,20,0
+11/18/20,confirmed,Nez Perce,Public Health - Idaho North Central District,53,0
+11/18/20,confirmed,Oneida,Southeastern Idaho Public Health,2,0
+11/18/20,confirmed,Owyhee,Southwest District Health,10,0
+11/18/20,confirmed,Payette,Southwest District Health,13,0
+11/18/20,confirmed,Power,Southeastern Idaho Public Health,0,1
+11/18/20,confirmed,Shoshone,Panhandle Health District,6,0
+11/18/20,confirmed,Teton,Eastern Idaho Public Health,11,0
+11/18/20,confirmed,Twin Falls,South Central Public Health District,106,0
+11/18/20,confirmed,Valley,Central District Health,1,0
+11/18/20,confirmed,Washington,Southwest District Health,9,1
