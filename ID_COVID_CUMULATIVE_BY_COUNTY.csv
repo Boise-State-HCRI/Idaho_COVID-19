@@ -1,45 +1,45 @@
 County,Probable,Cases,Deaths,Date,HEALTH_DISTRICT
-Ada,5566,40790,374,1/10/21,Central District Health
-Adams,68,287,3,1/10/21,Southwest District Health
-Bannock,2725,6785,69,1/10/21,Southeastern Idaho Public Health
-Bear Lake,76,298,2,1/10/21,Southeastern Idaho Public Health
-Benewah,103,484,5,1/10/21,Panhandle Health District
-Bingham,1483,3849,53,1/10/21,Southeastern Idaho Public Health
-Blaine,133,1625,13,1/10/21,South Central Public Health District
-Boise,56,250,2,1/10/21,Central District Health
-Bonner,388,2205,17,1/10/21,Panhandle Health District
-Bonneville,2821,10814,119,1/10/21,Eastern Idaho Public Health
-Boundary,326,620,10,1/10/21,Panhandle Health District
-Butte,34,173,1,1/10/21,Southeastern Idaho Public Health
-Camas,15,57,0,1/10/21,South Central Public Health District
-Canyon,2997,21826,233,1/10/21,Southwest District Health
-Caribou,286,558,10,1/10/21,Southeastern Idaho Public Health
-Cassia,337,2657,23,1/10/21,South Central Public Health District
-Clark,9,53,0,1/10/21,Eastern Idaho Public Health
-Clearwater,214,849,8,1/10/21,Public Health - Idaho North Central District
-Custer,51,218,2,1/10/21,Eastern Idaho Public Health
-Elmore,332,1403,10,1/10/21,Central District Health
-Franklin,205,969,11,1/10/21,Southeastern Idaho Public Health
-Fremont,97,895,14,1/10/21,Eastern Idaho Public Health
-Gem,322,1502,22,1/10/21,Southwest District Health
-Gooding,324,1187,20,1/10/21,South Central Public Health District
-Idaho,273,1084,15,1/10/21,Public Health - Idaho North Central District
-Jefferson,545,2157,15,1/10/21,Eastern Idaho Public Health
-Jerome,480,2320,16,1/10/21,South Central Public Health District
-Kootenai,1458,13948,131,1/10/21,Panhandle Health District
-Latah,126,2266,6,1/10/21,Public Health - Idaho North Central District
-Lemhi,75,470,9,1/10/21,Eastern Idaho Public Health
-Lewis,93,353,5,1/10/21,Public Health - Idaho North Central District
-Lincoln,101,449,9,1/10/21,South Central Public Health District
-Madison,648,5461,21,1/10/21,Eastern Idaho Public Health
-Minidoka,316,2134,23,1/10/21,South Central Public Health District
-Nez Perce,270,3123,44,1/10/21,Public Health - Idaho North Central District
-Oneida,94,269,2,1/10/21,Southeastern Idaho Public Health
-Owyhee,110,929,21,1/10/21,Southwest District Health
-Payette,410,2156,25,1/10/21,Southwest District Health
-Power,132,555,5,1/10/21,Southeastern Idaho Public Health
-Shoshone,52,890,29,1/10/21,Panhandle Health District
-Teton,310,816,3,1/10/21,Eastern Idaho Public Health
-Twin Falls,1769,8333,114,1/10/21,South Central Public Health District
-Valley,99,551,4,1/10/21,Central District Health
-Washington,261,1049,16,1/10/21,Southwest District Health
+Ada,5576,40933,374,1/11/21,Central District Health
+Adams,70,290,3,1/11/21,Southwest District Health
+Bannock,2758,6839,70,1/11/21,Southeastern Idaho Public Health
+Bear Lake,81,304,2,1/11/21,Southeastern Idaho Public Health
+Benewah,103,485,5,1/11/21,Panhandle Health District
+Bingham,1501,3878,53,1/11/21,Southeastern Idaho Public Health
+Blaine,132,1627,13,1/11/21,South Central Public Health District
+Boise,56,251,2,1/11/21,Central District Health
+Bonner,389,2215,18,1/11/21,Panhandle Health District
+Bonneville,2835,10842,120,1/11/21,Eastern Idaho Public Health
+Boundary,327,625,10,1/11/21,Panhandle Health District
+Butte,34,175,1,1/11/21,Southeastern Idaho Public Health
+Camas,15,57,0,1/11/21,South Central Public Health District
+Canyon,3008,21896,233,1/11/21,Southwest District Health
+Caribou,287,563,10,1/11/21,Southeastern Idaho Public Health
+Cassia,338,2663,23,1/11/21,South Central Public Health District
+Clark,9,53,0,1/11/21,Eastern Idaho Public Health
+Clearwater,215,852,8,1/11/21,Public Health - Idaho North Central District
+Custer,51,218,2,1/11/21,Eastern Idaho Public Health
+Elmore,332,1408,10,1/11/21,Central District Health
+Franklin,205,973,11,1/11/21,Southeastern Idaho Public Health
+Fremont,97,895,14,1/11/21,Eastern Idaho Public Health
+Gem,324,1508,22,1/11/21,Southwest District Health
+Gooding,325,1188,20,1/11/21,South Central Public Health District
+Idaho,275,1092,16,1/11/21,Public Health - Idaho North Central District
+Jefferson,546,2157,15,1/11/21,Eastern Idaho Public Health
+Jerome,484,2325,16,1/11/21,South Central Public Health District
+Kootenai,1466,14021,135,1/11/21,Panhandle Health District
+Latah,126,2292,6,1/11/21,Public Health - Idaho North Central District
+Lemhi,75,470,9,1/11/21,Eastern Idaho Public Health
+Lewis,93,355,6,1/11/21,Public Health - Idaho North Central District
+Lincoln,103,453,9,1/11/21,South Central Public Health District
+Madison,648,5467,21,1/11/21,Eastern Idaho Public Health
+Minidoka,319,2140,23,1/11/21,South Central Public Health District
+Nez Perce,271,3137,45,1/11/21,Public Health - Idaho North Central District
+Oneida,94,271,2,1/11/21,Southeastern Idaho Public Health
+Owyhee,110,930,21,1/11/21,Southwest District Health
+Payette,415,2166,25,1/11/21,Southwest District Health
+Power,132,556,5,1/11/21,Southeastern Idaho Public Health
+Shoshone,52,890,29,1/11/21,Panhandle Health District
+Teton,311,821,3,1/11/21,Eastern Idaho Public Health
+Twin Falls,1769,8347,114,1/11/21,South Central Public Health District
+Valley,99,555,4,1/11/21,Central District Health
+Washington,266,1056,16,1/11/21,Southwest District Health
