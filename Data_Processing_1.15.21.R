@@ -31,7 +31,7 @@ idaho_daily <- idaho_cumulative %>%
 # County-level shapefile --------------------------------------------------
 
 # Uplodad Idaho counties shapefile
-id_counties <- st_read("/Users/kathrynmcconnell/Documents/GitHub/Idaho_COVID-19_BSU_HCRI/HCRIShapefiles/COVID-19Counties_simpl/COVID_19_counties.shp")
+id_counties <- st_read("/Users/carsonmk/Desktop/Box Sync/HCRI/COVID-19/Idaho_COVID-19_BSU_HCRI/HCRIShapefiles/COVID-19Counties_simpl/COVID_19_counties.shp")
 
 # Select most recent date of NYT county-level data
 recent_date <- idaho %>%
@@ -47,9 +47,9 @@ counties_shapefile <- full_join(id_counties, recent_counties,
 # Make final data outputs -------------------------------------------------
 
 # Save .csv
-write_csv(idaho_daily, "/Users/kathrynmcconnell/Documents/GitHub/Idaho_COVID-19/ID_COVID_CUMULATIVE_BY_DATE.csv")
+write_csv(idaho_daily, "/Users/carsonmk/Desktop/Box Sync/HCRI/COVID-19/Idaho_COVID-19/ID_COVID_CUMULATIVE_BY_DATE.csv")
 
 # Save shapefile for use in ArcMap, UPDATE DATE IN FILE TITLE
-st_write(counties_shapefile, "/Users/kathrynmcconnell/Documents/GitHub/Idaho_COVID-19/11.12.21_cumulativecases.shp")
+st_write(counties_shapefile, "/Users/carsonmk/Desktop/Box Sync/HCRI/COVID-19/Idaho_COVID-19/1_18_21_cumulativecases.shp")
 
 
