@@ -40,9 +40,14 @@ recent_date <- idaho %>%
 # Filter only most recent date observations
 recent_counties <- filter(idaho, date == recent_date$date)
 
+# Import health districts by count
+h_districts <- read_csv("/Users/carsonmk/Desktop/Box Sync/HCRI/COVID-19/Idaho_COVID-19/County_Health_Districts.csv")
+
 # Merge cases by county with spatial county file
 counties_shapefile <- full_join(id_counties, recent_counties,
-                                        by = c("COUNTYNAME" = "county"))
+                                by = c("COUNTYNAME" = "county")) %>%
+  left_join(h_districts, by = c("COUNTYNAME" = "County"))
+
 
 # Make final data outputs -------------------------------------------------
 
@@ -50,6 +55,6 @@ counties_shapefile <- full_join(id_counties, recent_counties,
 write_csv(idaho_daily, "/Users/carsonmk/Desktop/Box Sync/HCRI/COVID-19/Idaho_COVID-19/ID_COVID_CUMULATIVE_BY_DATE.csv")
 
 # Save shapefile for use in ArcMap, UPDATE DATE IN FILE TITLE
-st_write(counties_shapefile, "/Users/carsonmk/Desktop/Box Sync/HCRI/COVID-19/Idaho_COVID-19/1_22_21_cumulativecases.shp")
+st_write(counties_shapefile, "/Users/carsonmk/Desktop/Box Sync/HCRI/COVID-19/Idaho_COVID-19/1_29_21_cumulativecases.shp")
 
 
