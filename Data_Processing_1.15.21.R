@@ -55,6 +55,6 @@ counties_shapefile <- full_join(id_counties, recent_counties,
 write_csv(idaho_daily, "/Users/carsonmk/Desktop/Box Sync/HCRI/COVID-19/Idaho_COVID-19/ID_COVID_CUMULATIVE_BY_DATE.csv")
 
 # Save shapefile for use in ArcMap, UPDATE DATE IN FILE TITLE
-st_write(counties_shapefile, "/Users/carsonmk/Desktop/Box Sync/HCRI/COVID-19/Idaho_COVID-19/3_19_21_cumulativecases.shp")
+st_write(counties_shapefile, "/Users/carsonmk/Desktop/Box Sync/HCRI/COVID-19/Idaho_COVID-19/3_26_21_cumulativecases.shp")
 
 
