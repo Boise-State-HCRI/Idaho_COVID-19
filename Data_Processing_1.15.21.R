@@ -59,5 +59,5 @@ write_csv(idaho_daily, "/Users/brittanybrand/Desktop/HCRI 2020/Idaho_COVID-19/ID
 
 # Save shapefile for use in ArcMap, UPDATE DATE IN FILE TITLE
 #st_write(counties_shapefile, "/Users/carsonmk/Desktop/Box Sync/HCRI/COVID-19/Idaho_COVID-19/3_26_21_cumulativecases.shp")
-st_write(counties_shapefile, "/Users/brittanybrand/Desktop/HCRI 2020/Idaho_COVID-19/5_14_21_cumulativecases.shp")
+st_write(counties_shapefile, "/Users/brittanybrand/Desktop/HCRI 2020/Idaho_COVID-19/6_11_21_cumulativecases.shp")
 
